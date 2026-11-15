@@ -2,7 +2,7 @@
 
 A simple web-based converter that lets you convert different types of units in one place.
 
-site is live at - https://red0x-106.github.io/Universal-Converter/site is live at https://red0x-106.github.io/Universal-Converter/
+site is live at - https://red0x-106.github.io/Universal-Converter/
 
 <img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/e4a38469-52f0-44d7-9e8e-e0d188629e02" />
 
